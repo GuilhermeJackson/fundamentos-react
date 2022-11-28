@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body,
+input,
+button {
+  font-size: 20px;
+  font-family: 'Caveat', cursive;
+
+
+  --webkit-font-smoothing: antialiased; /* contorno da fonte mais suaves */
+}
